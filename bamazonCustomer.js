@@ -49,7 +49,7 @@ function prompt() {
 					stock_quantity: newQuantity
 				},
 				{
-					product_name: answers.itemid
+					item_id: answers.itemid
 				}],
 
 					function (err, res) {

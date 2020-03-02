@@ -16,6 +16,9 @@ This app is simple.  It connects to the Mysql database and prints out the databa
 ### Screenshots demonstrating the app's functionality 
 
 ![image](/images/image1.png)
+![image](/images/image2.png)
+![image](/images/image3.png)
+![image](/images/image4.png)
 
 
 ### Technologies Used 
